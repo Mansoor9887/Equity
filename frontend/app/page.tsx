@@ -1,0 +1,1 @@
+export default function Page(){return (<main style={{padding:'2rem',fontFamily:'sans-serif'}}><h1>PeerPulse Staging</h1><p>Frontend placeholder. Backend health: /health</p></main>)}
